@@ -1,0 +1,6 @@
+print("7 x 2=")
+print(7 * 2)
+print("7 x 3")
+print(7 * 3)
+print("7 x 4")
+print(7 * 4)
